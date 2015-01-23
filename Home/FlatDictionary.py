@@ -1,5 +1,5 @@
 def flatten(dictionary):
-    stack = [((), dictionary)]              #Testing
+    stack = [((), dictionary)]              #Testingaa
     result = {}
     while stack:
         path, current = stack.pop()
